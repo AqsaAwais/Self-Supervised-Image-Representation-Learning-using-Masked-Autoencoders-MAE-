@@ -21,4 +21,4 @@ Self-supervised image representation learning using a Masked Autoencoder (MAE) w
 - Quantitative evaluation: PSNR and SSIM on reconstructed images.  
 - Gradio app: image upload, mask-ratio slider, real-time reconstruction.
 
-## Repository structure
+
